@@ -6,3 +6,7 @@ print(average)
 
 print(f'Sum of numbers is {a+b}')
 
+
+
+
+
