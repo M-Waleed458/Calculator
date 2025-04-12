@@ -7,7 +7,7 @@ print(f'average is {average}')
 print("hello how are you , what are you doing?")
 print("Work hard , stay focused.")
 
-print("Agentic AI is ai that can take actions...")
+print("Agentic AI is ai that can take actions...(feature)")
 print(a>b)
 print(a<b)
 print(a==b)
