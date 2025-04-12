@@ -8,3 +8,5 @@ print(f'average is {average}')
 print(a>b)
 print(a<b)
 
+
+
