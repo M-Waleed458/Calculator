@@ -5,6 +5,7 @@ print(f'Sum of numbers is : {a+b}')
 average : float = (a+b) / 2
 print(f'average is {average}')
 print("hello how are you , what are you doing?")
+print("Work hard , stay focused.")
 
 print(a>b)
 print(a<b)
